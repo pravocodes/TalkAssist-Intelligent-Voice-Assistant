@@ -1,5 +1,6 @@
 # TalkAssist-Intelligent-Voice-Assistant
 TalkAssist is an advanced AI-powered voice assistant project developed using Python. This voice assistant utilizes various libraries and technologies such as pyttsx3, speech_recognition, wikipedia, pywhatkit, and datetime to provide an interactive and intelligent voice-controlled interface.
+
 Key Features:
 
 Speech recognition: The voice assistant listens to user speech and converts it into text commands for processing.
